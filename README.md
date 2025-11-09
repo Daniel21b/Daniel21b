@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Analytics%20%7C%20Cloud%20Solutions&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%">
 </div>
 
 <h1>
