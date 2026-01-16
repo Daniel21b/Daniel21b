@@ -93,12 +93,11 @@
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="30px" align="center" alt="Folder Emoji" /> Featured Projects:</div>
 
-### [Crawl4AI OSS Contribution (Open Source)](https://github.com/unclecode/crawl4ai/pull/1630)
-**Tech Stack:** FastAPI, Docker, JWT, Async/Await
-- Built async scraping pipelines with Crawl4AI handling 500+ pages, implementing session management.
-- Enhanced FastAPI endpoints with JWT authentication, reducing unauthorized access attempts by 95%.
-- Automated data extraction to structured JSON/Markdown, cutting manual cleanup time to 15 minutes.
-
+### [Automated Invoice Processing Pipeline)
+**Tech Stack:** Python, PostgreSQL, Streamlit, AWS (Lambda, S3, RDS), OCR (Textrac
+- Designed an event-driven architecture that eliminates manual data entry by automatically triggering extraction pipelines upon file upload, reducing processing time by 95% .
+• Migrated real-time invoice processing to a scheduled Airflow batch architecture, optimizing compute resource usage by processing uploads in hourly micro-batches.
+• Implemented unstructured-to-structured data transformation using AI-based OCR to parse PDF invoices and normalize them into a relational PostgreSQL schema
 ### [DC Bikeshare Demand Analysis](https://dc-bikeshare-demand-analysis-ycklasmcgsozwy87bsdgzr.streamlit.app/)
 **Tech Stack:** Python, Pandas, Seaborn, Plotly, Looker  
 - Processed 2M+ trips to identify usage patterns across DC metro stations
@@ -119,7 +118,7 @@
 
 <div align="center">
   
-### 📈 GitHub Stats
+###  GitHub Stats
   
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel21b&show_icons=true&theme=tokyonight)
   
