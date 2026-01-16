@@ -93,7 +93,7 @@
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="30px" align="center" alt="Folder Emoji" /> Featured Projects:</div>
 
-### [Automated Invoice Processing Pipeline)
+### [Automated Invoice Processing Pipeline)(https://github.com/Daniel21b/invoice_pipeline)
 **Tech Stack:** Python, PostgreSQL, Streamlit, AWS (Lambda, S3, RDS), OCR (Textrac
 - Designed an event-driven architecture that eliminates manual data entry by automatically triggering extraction pipelines upon file upload, reducing processing time by 95% .
 • Migrated real-time invoice processing to a scheduled Airflow batch architecture, optimizing compute resource usage by processing uploads in hourly micro-batches.
