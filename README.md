@@ -96,10 +96,8 @@
 ### [Automated Invoice Processing Pipeline)(https://github.com/Daniel21b/invoice_pipeline)
 **Tech Stack:** Python, PostgreSQL, Streamlit, AWS (Lambda, S3, RDS), OCR (Textrac
 - Designed an event-driven architecture that eliminates manual data entry by automatically triggering extraction pipelines upon file upload, reducing processing time by 95% .
-
-• Migrated real-time invoice processing to a scheduled Airflow batch architecture, optimizing compute resource usage by processing uploads in hourly micro-batches.
-
-• Implemented unstructured-to-structured data transformation using AI-based OCR to parse PDF invoices and normalize them into a relational PostgreSQL schema
+- Migrated real-time invoice processing to a scheduled Airflow batch architecture, optimizing compute resource usage by processing uploads in hourly micro-batches.
+- Implemented unstructured-to-structured data transformation using AI-based OCR to parse PDF invoices and normalize them into a relational PostgreSQL schema
 ### [DC Bikeshare Demand Analysis](https://dc-bikeshare-demand-analysis-ycklasmcgsozwy87bsdgzr.streamlit.app/)
 **Tech Stack:** Python, Pandas, Seaborn, Plotly, Looker  
 - Processed 2M+ trips to identify usage patterns across DC metro stations
